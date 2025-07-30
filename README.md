@@ -10,17 +10,40 @@ A terminal‑based typing-speed test CLI tool that shows **real-time feedback**,
 - Uses a built-in 10k word list for realistic, daily vocabulary  
 - No external dependencies beyond Python packages  
 
----
-
 
 ## 🚀 Installation
 
+**Create a virtual environment using uv (a modern venv tool)**
 
+```bash
+uv venv .type
+```
+
+**Activate the virtual environment**
+
+```bash
+source .type/bin/activate
+```
+
+**Install Typeman into your isolated `.type` virtual environment**
+
+```bash
+uv pip install typeman
+```
+
+### Alternatively, if you prefer traditional tools
+
+```bash
+python3 -m venv .venv      # Create a virtual environment
+source .venv/bin/activate
+pip install typeman        # Standard pip install
+```
 
 ## Usage
 
+### 🔸 Run a 30-second typing test (seconds must be 0–60)
 ```bash
-typeman 30
+typeman 30 
 ```
 
 ## Demo
