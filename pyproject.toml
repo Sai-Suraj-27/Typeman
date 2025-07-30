@@ -1,0 +1,14 @@
+[project]
+name = "typeman"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "readchar>=4.2.1",
+    "ruff>=0.12.2",
+    "typer>=0.16.0",
+]
+
+[project.scripts]
+typeman = "typeman.main:app"
