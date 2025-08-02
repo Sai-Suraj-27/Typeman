@@ -47,3 +47,5 @@ typeman 30
 ```
 
 ## Demo
+
+https://github.com/user-attachments/assets/5f087a16-bcae-463c-b1e1-ec984ab858ee
