@@ -13,7 +13,7 @@ A terminal‑based typing-speed test CLI tool that shows **real-time feedback**,
 
 ## 🚀 Installation
 
-**Create a virtual environment using uv (a modern venv tool)**
+**Create a virtual environment using [uv](https://docs.astral.sh/uv/getting-started/installation/)**
 
 ```bash
 uv venv .type
