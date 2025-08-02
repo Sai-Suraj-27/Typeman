@@ -1,6 +1,6 @@
 [project]
 name = "typeman"
-version = "0.1.0"
+version = "0.1.1"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
@@ -12,3 +12,9 @@ dependencies = [
 
 [project.scripts]
 typeman = "typeman.main:app"
+
+[project.urls]
+"Repository" = "https://github.com/Sai-Suraj-27/Typeman"
+"Issues"     = "https://github.com/Sai-Suraj-27/Typeman/issues"
+"Homepage"   = "https://github.com/Sai-Suraj-27/Typeman"
+
