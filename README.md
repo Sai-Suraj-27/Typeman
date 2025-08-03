@@ -1,6 +1,8 @@
 # Typeman
 A terminal‑based typing-speed test CLI tool that shows **real-time feedback**, **WPM**, and **accuracy** in a beautiful, live interface built with **Typer** and **Rich**.
 
+<img width="959" height="599" alt="image" src="https://github.com/user-attachments/assets/7e5a5aca-63c9-4cb1-aad3-76c85c52b1fe" />
+
 
 ## ✨ Why Typeman?
 
